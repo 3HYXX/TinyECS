@@ -4,7 +4,7 @@ l 使用C++和SFML图形库进行输入处理和图像绘制，实现了一个�
 
 
 
-![Game](images\Game.gif)
+![Game](images/Game.gif)
 
 ## ECS优化（未实装）
 
